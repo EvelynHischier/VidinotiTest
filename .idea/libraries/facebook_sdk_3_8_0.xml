@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="facebook_sdk_3.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/facebook_sdk_3.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

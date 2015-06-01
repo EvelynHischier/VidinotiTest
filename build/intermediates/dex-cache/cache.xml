@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspaces\AndroidStudio\VidinotiDemo\app\libs\facebook_sdk_3.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8adc43c0efd81099d902c86580b256aeda338541">
+        <dex dex="D:\Workspaces\AndroidStudio\VidinotiDemo\app\build\intermediates\pre-dexed\debug\facebook_sdk_3.8.0-2ddba556f40ffda7870769cbf18b4283ea18e28d.jar" />
+    </item>
+    <item
+        jar="D:\Programme\AndroidStudio\SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Workspaces\AndroidStudio\VidinotiDemo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-df2efa81db3ef44e3e95bbd972dddb25046176dd.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\AndroidStudio\VidinotiDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Workspaces\AndroidStudio\VidinotiDemo\app\build\intermediates\pre-dexed\debug\classes-b3b1e578015123a86fef22dddd774b905435dae7.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\AndroidStudio\VidinotiDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Workspaces\AndroidStudio\VidinotiDemo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-51d1f7db738e2537beda70b335d0afd3fbe70f86.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\AndroidStudio\VidinotiDemo\app\libs\vdarsdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="54d3257c1979453ad2868cf780eac880a5d974fe">
+        <dex dex="D:\Workspaces\AndroidStudio\VidinotiDemo\app\build\intermediates\pre-dexed\debug\vdarsdk-83e46447b502a9e6b0d9f132d4cb1094673af4f4.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\AndroidStudio\VidinotiDemo\app\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9b63d9aba531aa7ff5dd30e0c872e8ca550b363a">
+        <dex dex="D:\Workspaces\AndroidStudio\VidinotiDemo\app\build\intermediates\pre-dexed\debug\google-play-services-5a234bf0374c0e885f4dbe779b1be39b273ff58a.jar" />
+    </item>
+
+</items>

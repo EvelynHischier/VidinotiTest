@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vdarsdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/vdarsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:4
+MERGED from com.android.support:support-v4:21.0.3:15:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:7:14
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:7:44
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:11:5
+	android:name
+		ADDED from AndroidManifest.xml:11:22
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:13:5
+	android:name
+		ADDED from AndroidManifest.xml:13:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from AndroidManifest.xml:16:5
+	android:name
+		ADDED from AndroidManifest.xml:16:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:17:5
+	android:name
+		ADDED from AndroidManifest.xml:17:22
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from AndroidManifest.xml:18:5
+	android:name
+		ADDED from AndroidManifest.xml:18:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from AndroidManifest.xml:19:5
+	android:name
+		ADDED from AndroidManifest.xml:19:22
+uses-permission#android.permission.CALL_PHONE
+ADDED from AndroidManifest.xml:20:5
+	android:name
+		ADDED from AndroidManifest.xml:20:22
+uses-feature#0x00020000
+ADDED from AndroidManifest.xml:22:5
+	android:required
+		ADDED from AndroidManifest.xml:22:52
+	android:glEsVersion
+		ADDED from AndroidManifest.xml:22:19
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:23:5
+	android:required
+		ADDED from AndroidManifest.xml:24:15
+	android:name
+		ADDED from AndroidManifest.xml:23:19
+uses-feature#android.hardware.camera.autofocus
+ADDED from AndroidManifest.xml:25:5
+	android:required
+		ADDED from AndroidManifest.xml:25:68
+	android:name
+		ADDED from AndroidManifest.xml:25:19
+uses-feature#android.hardware.telephony
+ADDED from AndroidManifest.xml:27:5
+	android:required
+		ADDED from AndroidManifest.xml:27:61
+	android:name
+		ADDED from AndroidManifest.xml:27:19
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:30:5
+	android:name
+		ADDED from AndroidManifest.xml:30:22
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from AndroidManifest.xml:31:5
+	android:name
+		ADDED from AndroidManifest.xml:31:22
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:32:2
+	android:name
+		ADDED from AndroidManifest.xml:32:19
+uses-feature#android.hardware.bluetooth_le
+ADDED from AndroidManifest.xml:33:5
+	android:required
+		ADDED from AndroidManifest.xml:35:9
+	android:name
+		ADDED from AndroidManifest.xml:34:9
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from AndroidManifest.xml:38:2
+	android:name
+		ADDED from AndroidManifest.xml:38:19
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from AndroidManifest.xml:39:2
+	android:name
+		ADDED from AndroidManifest.xml:39:19
+permission#com.mycompany.myapp.permission.C2D_MESSAGE
+ADDED from AndroidManifest.xml:41:2
+	android:protectionLevel
+		ADDED from AndroidManifest.xml:42:9
+	android:name
+		ADDED from AndroidManifest.xml:41:14
+uses-permission#com.mycompany.myremotearapplication.permission.C2D_MESSAGE
+ADDED from AndroidManifest.xml:43:5
+	android:name
+		ADDED from AndroidManifest.xml:43:22
+application
+ADDED from AndroidManifest.xml:47:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+	android:label
+		ADDED from AndroidManifest.xml:50:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:48:9
+	android:icon
+		ADDED from AndroidManifest.xml:49:9
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:50:35
+activity#com.mycompany.myapp.ARActivity
+ADDED from AndroidManifest.xml:51:9
+	android:label
+		ADDED from AndroidManifest.xml:53:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:55:13
+	android:theme
+		ADDED from AndroidManifest.xml:56:13
+	android:name
+		ADDED from AndroidManifest.xml:52:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:54:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:57:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:58:17
+	android:name
+		ADDED from AndroidManifest.xml:58:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:60:17
+	android:name
+		ADDED from AndroidManifest.xml:60:27
+activity#com.mycompany.myapp.TagsListActivity
+ADDED from AndroidManifest.xml:63:10
+	android:label
+		ADDED from AndroidManifest.xml:66:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:64:13
+	android:name
+		ADDED from AndroidManifest.xml:65:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:67:13
+activity#com.vidinoti.android.vdarsdk.VDARModalWebView
+ADDED from AndroidManifest.xml:69:9
+	android:label
+		ADDED from AndroidManifest.xml:71:13
+	android:theme
+		ADDED from AndroidManifest.xml:73:13
+	android:name
+		ADDED from AndroidManifest.xml:70:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:72:13
+activity#com.vidinoti.android.vdarsdk.MoviePlayerActivity
+ADDED from AndroidManifest.xml:75:9
+	android:label
+		ADDED from AndroidManifest.xml:77:13
+	android:theme
+		ADDED from AndroidManifest.xml:79:13
+	android:name
+		ADDED from AndroidManifest.xml:76:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:78:13
+receiver#com.mycompany.myapp.NotificationReceiver
+ADDED from AndroidManifest.xml:84:4
+	android:permission
+		ADDED from AndroidManifest.xml:86:13
+	android:name
+		ADDED from AndroidManifest.xml:85:13
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.mycompany.myremotearapplication
+ADDED from AndroidManifest.xml:87:13
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from AndroidManifest.xml:88:17
+	android:name
+		ADDED from AndroidManifest.xml:88:25
+category#com.mycompany.myremotearapplication
+ADDED from AndroidManifest.xml:89:17
+	android:name
+		ADDED from AndroidManifest.xml:89:27
+receiver#com.vidinoti.vidibeacon.startup.StartupBroadcastReceiver
+ADDED from AndroidManifest.xml:94:9
+	android:name
+		ADDED from AndroidManifest.xml:94:19
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:95:13
+action#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:96:17
+	android:name
+		ADDED from AndroidManifest.xml:96:25
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from AndroidManifest.xml:97:17
+	android:name
+		ADDED from AndroidManifest.xml:97:25
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from AndroidManifest.xml:98:17
+	android:name
+		ADDED from AndroidManifest.xml:98:25
+receiver#com.vidinoti.android.vdarsdk.StartSDKReceiver
+ADDED from AndroidManifest.xml:102:9
+	android:name
+		ADDED from AndroidManifest.xml:102:19
+intent-filter#com.vidinoti.vdarsdk.android.START_SDK
+ADDED from AndroidManifest.xml:103:13
+action#com.vidinoti.vdarsdk.android.START_SDK
+ADDED from AndroidManifest.xml:104:17
+	android:name
+		ADDED from AndroidManifest.xml:104:25
+service#com.vidinoti.vidibeacon.service.BeaconService
+ADDED from AndroidManifest.xml:108:9
+	android:label
+		ADDED from AndroidManifest.xml:111:13
+	android:isolatedProcess
+		ADDED from AndroidManifest.xml:110:13
+	android:exported
+		ADDED from AndroidManifest.xml:109:13
+	android:enabled
+		ADDED from AndroidManifest.xml:108:18
+	android:name
+		ADDED from AndroidManifest.xml:112:13
+service#com.vidinoti.vidibeacon.BeaconIntentProcessor
+ADDED from AndroidManifest.xml:115:9
+	android:enabled
+		ADDED from AndroidManifest.xml:115:18
+	android:name
+		ADDED from AndroidManifest.xml:116:13
+meta-data#com.google.android.gms.version
+ADDED from AndroidManifest.xml:122:10
+	android:name
+		ADDED from AndroidManifest.xml:122:21
+	android:value
+		ADDED from AndroidManifest.xml:122:67
